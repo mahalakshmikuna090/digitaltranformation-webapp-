@@ -61,7 +61,6 @@
       font-size: 1.1rem;
       color: #555;
     }
-  </style>
 </head>
 <body>
   <div class="container">
@@ -89,5 +88,5 @@
       document.getElementById("infoText").textContent = info[type];
     }
   </script>
-</body>
 </html>
+
